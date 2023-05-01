@@ -6,7 +6,6 @@
   width: 200px;
   height: 2px;
   background-color: black;
-  transform-origin: left center;
   animation: rotateLine 2s infinite linear;
 }
 
